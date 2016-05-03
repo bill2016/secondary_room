@@ -1,0 +1,125 @@
+@CHARSET "UTF-8";
+/* CSS Document */
+body {
+	background-color: #FFF;
+	font-family: "YouYuan";
+}
+
+div.nav {
+	background-color: #202020;
+	width: auto;
+	height: 25px;
+	position: relative;
+	opacity: 0.75;
+	filter: alpha(opacity = 75);
+}
+
+div.nav1 {
+	background-color: #F0F3F5;
+	width: auto;
+	height: auto;
+	padding-left: 194px;
+	position: relative;
+	z-index: 10000;
+	font-family: "YouYuan";
+}
+
+div.nav2 {
+	position: absolute;
+	left: 440px;
+	top: 6px;
+}
+
+button.sbutton {
+	float: left;
+	margin-left: 0px;
+	margin-top: 10px;
+	background-color: #FF9900;
+	font-family: "YouYuan";
+	font-weight: bold;
+	color: #FFF;
+	border-color: FF6;
+	font-size: 20px;
+	border-color: #FF9900;
+	height: 42px;
+	width: 116px;
+}
+
+a.dl {
+	color: #FFF;
+	font-size: 14px;
+}
+
+a {
+	color: #FF9900;
+	font-size: 16px;
+	font-size: 14px;
+	font-family: "SimHei";
+	font-weight: normal;
+	TEXT-DECORATION: none;
+}
+
+a.dl:hover {
+	color: #FF9911;
+	background-color: transparent;
+	border-style: none;
+}
+
+h {
+	font-family: "YouYuan";
+	font-weight: bold;
+	font-size: 22px;
+	color: #FF9900;
+	margin-left: 220px;
+	margin-top: 50px;
+}
+
+div.user {
+	border-style: solid;
+	border-color: #D8D8D8;
+	border-width: 1px;
+	width: 1000px;
+	height: 380px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+div.save {
+	border-style: solid;
+	border-color: #D8D8D8;
+	border-width: 1px;
+	width: 1000px;
+	height: auto;
+	position: relative;
+	margin: 0 auto;
+	padding-bottom: 10px;
+}
+
+div.h2 {
+	border-style: solid;
+	border-color: #D8D8D8;
+	border-width: 1px;
+	float: left;
+	margin-left: 33px;
+	margin-top: 10px;
+	height: auto;
+	width: 195px;
+	color: #C00;
+	font-family: "Microsoft YaHei";
+	padding: 6px;
+}
+
+h1 {
+	font-family: "YouYuan";
+	font-weight: bold;
+	font-size: 22px;
+	color: #FF9900;
+	margin-left: 220px;
+}
+
+
+
+div.close {
+	float: right;
+	padding-bottom: 2px;
+}

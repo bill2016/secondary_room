@@ -1,0 +1,223 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: #FFF;
+	font-family: "YouYuan";
+}
+
+div.nav {
+	background-color: #202020;
+	width: auto;
+	height: 25px;
+	position: relative;
+	opacity: 0.75;
+	filter: alpha(opacity = 75);
+}
+
+div.nav1 {
+	background-color: #F0F3F5;
+	width: auto;
+	height: auto;
+	padding-left: 96px;
+	position: relative;
+	z-index: 10000;
+	font-family: "YouYuan";
+}
+
+div.nav3 {
+	background-color: #F0F3F5;
+	width: auto;
+	height: auto;
+	padding-left: 94px;
+	position: relative;
+	z-index: 10000;
+	font-family: "YouYuan";
+}
+
+div.nav2 {
+	position: absolute;
+	left: 360px;
+	top: 6px;
+}
+
+div.nav5 {
+	margin-left: 100px;
+	margin-top: 30px;
+	color: #5E5E6E;
+	position: relative;
+	border-style: solid;
+	border-color: #FF9900;
+	border-width: 2px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	width: 1140px;
+	BORDER-top: 0PX;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+button.sbutton {
+	float: left;
+	margin-left: 0px;
+	margin-top: 10px;
+	background-color: #FF9900;
+	font-family: "YouYuan";
+	font-weight: bold;
+	color: #FFF;
+	border-color: FF6;
+	font-size: 20px;
+	border-color: #FF9900;
+	height: 42px;
+	width: 108px;
+}
+
+a.dl {
+	color: #FFF;
+	font-size: 14px;
+}
+
+a {
+	color: #FF9900;
+	font-size: 16px;
+	font-size: 14px;
+	font-family: "SimHei";
+	font-weight: normal;
+	TEXT-DECORATION: none;
+}
+
+a.dl:hover {
+	color: #FF9911;
+	background-color: transparent;
+	border-style: none;
+}
+
+img.imgzs {
+	height: auto;
+	width: 780px;
+}
+
+button.imgch {
+	border-radius: x/2;
+	background-color: #FF9900;
+	color: #FFF;
+	border-color: #FF6;
+}
+
+div.date {
+	position: absolute;
+	left: 120px;
+	top: 180px;
+}
+
+div.hold {
+	background-color: #FFF;
+	margin-left: 100px;
+	margin-top: 10px;
+	width: 1145px;
+	height: 460px;
+}
+
+div.nav4 {
+	position: absolute;
+	left: 108px;
+	top: 640px;
+	background-color: #FF9900;
+	color: #FFF;
+	height: 40px;
+	width: 880px;
+	font-size: 24px;
+	padding-top: 10px;
+	padding-left: 10px;
+	box-shadow: 5px 5px 5px #999;
+}
+
+div.date2 {
+	position: relative;
+	left: 100px;
+	top: 70px;
+	line-height: 250%;
+	text-align: center;
+	background-color: #F0F3F5;
+	height: auto;
+	width: 872px;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	font-size: 18px;
+}
+
+span.price {
+	color: #de3438;
+	font: 29px/30px Arial;
+	padding-right: 4px;
+	vertical-align: -1px;
+}
+
+div.date1 {
+	float: left;
+	margin-top: 90px;
+	margin-left: 500px;
+}
+
+div.seller {
+	    float:left;
+		margin-top:45px;
+		position:absolute;
+		margin-left:882px;
+		padding-top:50px;
+		text-align:center;
+		border-style:solid;
+		border-color:#D8D8D8;
+		border-width:1px;
+		width:260px;
+		height:350px;
+}
+
+div.history {
+	position: relative;
+	width: 230px;
+	height: auto;
+	float: right;
+	margin-top: 14px;
+	margin-right: 90px;
+	border-style: solid;
+	border-color: #D8D8D8;
+	border-width: 1px;
+	padding-bottom: 10px;
+}
+
+div.h1 {
+	height: 24px;
+	width: 230px;
+	padding-top: 4px;
+	text-align: center;
+	font-size: 18px;
+	border-style: solid;
+	border-color: #D8D8D8;
+	border-width: 1px;
+}
+
+div.h2 {
+	float: left;
+	margin-left: 17px;
+	margin-top: 10px;
+	height: auto;
+	width: 230px;
+	color: #C00;
+	font-family: "SimHei";
+}
+
+button.cbutton {
+	float: left;
+	margin-left: 120px;
+	margin-top: 10px;
+	background-color: #FF9900;
+	font-family: "YouYuan";
+	font-weight: bold;
+	color: #FFF;
+	border-color: #FF9911;
+	font-size: 16px;
+	border-color: #FF9900;
+	height: 32px;
+	width: 86px;
+}
